@@ -1,0 +1,106 @@
+{
+    "museums": [
+        {
+            "id": 1,
+            "nameMuseum": "Museo Nacional d'arte de Cataluña",
+            "opening year":1929,
+            "address": "Palau Nacional, Parc de Montjuïc",
+            "city": "Barcelona",
+            "phone": 936220360,
+            "assessment": 6,
+            "price": 12.00
+           
+        },
+        {
+            "id": 2,
+            "nameMuseum": "CosmoCaixa",
+            "opening year":1981,
+            "address": "Issac Newton, 26",
+            "city": "Barcelona",
+            "phone": 932126050,
+            "assessment": 9,
+            "price": 6
+          
+        },
+        {
+            "id": 3,
+            "nameMuseum": "Museu Picasso",
+            "opening year":1963,
+            "address": "Montcada, 15-23 ",
+            "city": "Barcelona",
+            "phone": 932563000,
+            "assessment": 8,
+            "price": 13.00
+        },
+        {
+            "id": 4,
+            "nameMuseum": "Museu de cera",
+            "opening year":1973,
+            "address": "Passatge de la Banca, 7",
+            "city": "Barcelona",
+            "phone": 933172649,
+            "assessment": 8,
+            "price": 21.00
+        },
+        {
+            "id": 5,
+            "nameMuseum": "CaixaForum",
+            "opening year":2002,
+            "address": "Av. Francesc Ferrer i Guàrdia. 6-8",
+            "city": "Barcelona",
+            "phone": 934768600,
+            "assessment": 7,
+            "price": 6
+        },
+        {
+            "id": 6,
+            "nameMuseum": "Museo Dalí",
+            "opening year":1974,
+            "address": " Pujada del Castell, 28",
+            "city": "Figueres",
+            "phone": 972677505,
+            "assessment": 9,
+            "price": 20
+        },
+        {
+            "id": 7,
+            "nameMuseum": "Museu Etnogràfic",
+            "opening year":2011,
+            "address": "Plaça de l'Abat Oliba s/n",
+            "city": "Ripoll",
+            "phone": 972703144,
+            "assessment": 9,
+            "price": 4
+        },
+        {
+            "id": 8,
+            "nameMuseum": "Museu del Cinema",
+            "opening year":1998,
+            "address": "Sèquia, 1",
+            "city": "Girona",
+            "phone": 972412777,
+            "assessment": 5,
+            "price": 7
+        },
+        {
+            "id": 9,
+            "nameMuseum": "Museu Etnològic del Montseny",
+            "opening year":1995,
+            "address": "Major, 6",
+            "city": "Arbúcies",
+            "phone": 972860908,
+            "assessment": 7,
+            "price": 4
+        },
+        {
+            "id": 10,
+            "nameMuseum": " Museu de les Cultures del Vi de Catalunya",
+            "opening year":1935,
+            "address": "Plaça de Jaume I, 1-5",
+            "city": " Vilafranca del Penedès ",
+            "phone": 938900582,
+            "assessment": 8,
+            "price": 20
+        }
+    ]
+}
