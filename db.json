@@ -3,7 +3,7 @@
         {
             "id": 1,
             "nameMuseum": "Museo Nacional d'arte de Cataluña",
-            "opening year":1929,
+            "opening_year":1929,
             "address": "Palau Nacional, Parc de Montjuïc",
             "city": "Barcelona",
             "phone": 936220360,
@@ -14,7 +14,7 @@
         {
             "id": 2,
             "nameMuseum": "CosmoCaixa",
-            "opening year":1981,
+            "opening_year":1981,
             "address": "Issac Newton, 26",
             "city": "Barcelona",
             "phone": 932126050,
@@ -25,7 +25,7 @@
         {
             "id": 3,
             "nameMuseum": "Museu Picasso",
-            "opening year":1963,
+            "opening_year":1963,
             "address": "Montcada, 15-23 ",
             "city": "Barcelona",
             "phone": 932563000,
@@ -35,7 +35,7 @@
         {
             "id": 4,
             "nameMuseum": "Museu de cera",
-            "opening year":1973,
+            "opening_year":1973,
             "address": "Passatge de la Banca, 7",
             "city": "Barcelona",
             "phone": 933172649,
@@ -45,7 +45,7 @@
         {
             "id": 5,
             "nameMuseum": "CaixaForum",
-            "opening year":2002,
+            "opening_year":2002,
             "address": "Av. Francesc Ferrer i Guàrdia. 6-8",
             "city": "Barcelona",
             "phone": 934768600,
@@ -55,7 +55,7 @@
         {
             "id": 6,
             "nameMuseum": "Museo Dalí",
-            "opening year":1974,
+            "opening_year":1974,
             "address": " Pujada del Castell, 28",
             "city": "Figueres",
             "phone": 972677505,
@@ -65,7 +65,7 @@
         {
             "id": 7,
             "nameMuseum": "Museu Etnogràfic",
-            "opening year":2011,
+            "opening_year":2011,
             "address": "Plaça de l'Abat Oliba s/n",
             "city": "Ripoll",
             "phone": 972703144,
@@ -75,7 +75,7 @@
         {
             "id": 8,
             "nameMuseum": "Museu del Cinema",
-            "opening year":1998,
+            "opening_year":1998,
             "address": "Sèquia, 1",
             "city": "Girona",
             "phone": 972412777,
@@ -85,7 +85,7 @@
         {
             "id": 9,
             "nameMuseum": "Museu Etnològic del Montseny",
-            "opening year":1995,
+            "opening_year":1995,
             "address": "Major, 6",
             "city": "Arbúcies",
             "phone": 972860908,
@@ -95,7 +95,7 @@
         {
             "id": 10,
             "nameMuseum": " Museu de les Cultures del Vi de Catalunya",
-            "opening year":1935,
+            "opening_year":1935,
             "address": "Plaça de Jaume I, 1-5",
             "city": " Vilafranca del Penedès ",
             "phone": 938900582,
